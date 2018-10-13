@@ -5,7 +5,7 @@ Poker bot for MHacks11
 
 To create a virtualenv with python3.6 run `python3.6 -m virtualenv --system-site-packages -p python3 ./env`
 
-To activate the venv run `source ./env/bin/activate'
+To activate the venv run `source ./env/bin/activate`
 
 To install dependencies run `pip install -r requirements.txt`
 
