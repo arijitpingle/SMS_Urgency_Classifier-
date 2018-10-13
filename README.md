@@ -1,5 +1,5 @@
 # advanced_poker_bot
-Poker bot for MHacks11
+Naive bayes classifier for detecting urgency of text messages
 
 ***Important*** This program uses python3.6 other versions will not work
 
