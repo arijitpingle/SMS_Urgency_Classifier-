@@ -1,4 +1,4 @@
-# advanced_poker_bot
+# sms_urgency_classifier
 Naive bayes classifier for detecting urgency of text messages
 
 ***Important*** This program uses python3.6 other versions will not work
