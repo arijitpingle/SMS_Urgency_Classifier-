@@ -1,0 +1,799 @@
+[ 
+	{
+		"message": "hi",
+		"urgency": "NOT_URGENT"
+	},
+	
+	{
+		"message": "hi guys",
+		"urgency": "NOT_URGENT"
+	},
+	
+	{
+		"message": "hey dude",
+		"urgency": "NOT_URGENT"
+	},
+
+	{
+		"message": "hey man",
+		"urgency": "NOT_URGENT"
+	},
+
+	{
+		"message": "hey",
+		"urgency": "NOT_URGENT"
+	},
+
+	{
+		"message": "hello",
+		"urgency": "NOT_URGENT"
+	},
+
+	{
+		"message": "hello!",
+		"urgency": "NOT_URGENT"
+	},
+
+	{
+		"message": "howdy",
+		"urgency": "NOT_URGENT"
+	},
+
+	{
+		"message": "hiya",
+		"urgency": "NOT_URGENT"
+	},
+
+	{
+		"message": "hey there",
+		"urgency": "NOT_URGENT"
+	},
+
+	{
+		"message": "hi there",
+		"urgency": "NOT_URGENT"
+	},
+
+	{
+		"message": "hey bro",
+		"urgency": "NOT_URGENT"
+	},
+
+	{
+		"message": "hey how is it going",
+		"urgency": "NOT_URGENT"
+	},
+
+	{
+		"message": "hello there",
+		"urgency": "NOT_URGENT"
+	},
+
+	{
+		"message": "hi man",
+		"urgency": "NOT_URGENT"
+	},
+
+	    
+	{
+		"message": "see you",
+		"urgency": "NOT_URGENT"
+	
+	},
+	
+	{
+		"message": "see you later",
+		"urgency": "NOT_URGENT"
+	
+	},
+ 	
+	{
+		"message": "Good morning",
+		"urgency": "NOT_URGENT"
+	
+	},
+
+	{
+		"message": "Good afternoon",
+		"urgency": "NOT_URGENT"
+	
+	},
+	
+	{
+		"message": "Good night",
+		"urgency": "NOT_URGENT"
+	
+	},
+	
+	{
+		"message": "Have a good one",
+		"urgency": "NOT_URGENT"
+	
+	},
+
+           {
+		"message": "Have a nice day",
+		"urgency": "NOT_URGENT"
+	
+	},
+	
+	{
+		"message": "i am dying",
+		"urgency": "VERY_URGENT"
+	},
+
+            
+    {
+		"message": "can I borrow your car?",
+		"urgency":  "SLIGHTLY_URGENT"
+	
+	},
+            
+	 {
+		"message": "do you want to come with me?",
+		"urgency":  "SLIGHTLY_URGENT"
+	
+	},
+
+           {
+		"message": "are you going to hang out this weekend?",
+		"urgency": "SLIGHTLY_URGENT"
+	
+	},
+	
+	{
+		"message": "how did you do that?",
+		"urgency": "SLIGHTLY_URGENT"
+	
+	},
+
+	{
+		"message": "how much is it?",
+		"urgency": "SLIGHTLY_URGENT"
+	
+	},
+
+	{
+		"message": "how much is it?",
+		"urgency": "SLIGHTLY_URGENT"
+	
+	},
+	
+           {
+		"message": "how many do you want?",
+		"urgency": "SLIGHTLY_URGENT"
+	
+	},
+           		
+            {
+		"message": "can you help me do the stuff, plz!",
+		"urgency": "URGENT"
+	
+	},
+	
+	{
+		"message": "can you help me do the stuff, please!",
+		"urgency": "URGENT"
+	
+	},
+
+{
+		"message": "he is dying",
+		"urgency": "VERY_URGENT"
+	},
+	{
+		"message": "she is dying",
+		"urgency": "VERY_URGENT"
+	},
+
+{
+		"message": "we are dying",
+		"urgency": "VERY_URGENT"
+	},
+
+{
+		"message": "he is dead",
+		"urgency": "VERY_URGENT"
+	},
+
+{
+		"message": "she is dead",
+		"urgency": "VERY_URGENT"
+	},
+
+{
+		"message": "the dog is dead",
+		"urgency": "VERY_URGENT"
+	},
+
+{
+		"message": "i am dead",
+		"urgency": "VERY_URGENT"
+	},
+
+{
+		"message": "he is dying",
+		"urgency": "VERY_URGENT"
+	},
+
+           {
+		"message": "what is up?",
+		"urgency": "SLIGHTLY_URGENT"
+	
+	},
+
+           {
+		"message": "what is happening?",
+		"urgency": "SLIGHTLY_URGENT"
+	
+	},
+
+           {
+		"message": "how is it going?",
+		"urgency": "SLIGHTLY_URGENT"
+	
+	},
+
+           {
+		"message": "what are you up to?",
+		"urgency": "SLIGHTLY_URGENT"
+	
+	},
+
+           {
+		"message": "what are you doing right now?",
+		"urgency": "SLIGHTLY_URGENT"
+	
+	},
+
+           {
+		"message": "what you up to?",
+		"urgency": "SLIGHTLY_URGENT"
+	
+	},
+
+{
+		"message": "gotcha",
+		"urgency": "NOT_URGENT"
+	
+	},	
+           
+            {
+		"message": "kk",
+		"urgency":  "NOT_URGENT"
+	
+	},
+
+            {
+		"message": "k",
+		"urgency":  "NOT_URGENT"
+	
+	},
+
+            {
+		"message": "ok",
+		"urgency":  "NOT_URGENT"
+	
+	},
+
+            {
+		"message": "okay",
+		"urgency":  "NOT_URGENT"
+	
+	},
+
+            {
+		"message": "thanks",
+		"urgency":  "NOT_URGENT"
+	
+	},
+           
+            {
+		"message": "thank you",
+		"urgency":  "NOT_URGENT"
+	
+	},
+
+            {
+		"message": "i appreciate it",
+		"urgency":  "NOT_URGENT"
+	
+	},
+
+            {
+		"message": "thank you very much",
+		"urgency":  "NOT_URGENT"
+	
+	},
+
+            {
+		"message": "thx!",
+		"urgency":  "NOT_URGENT"
+	
+	},
+            
+            {         
+		"message": "no problem!",
+             	"urgency": "NOT_URGENT"
+            },	
+    	
+	{         
+		"message": "you are welcome!",
+             	"urgency": "NOT_URGENT"
+            },
+	
+{         
+		"message": "you are so welcome!!",
+             	"urgency": "NOT_URGENT"
+            },
+	
+	
+	
+	
+	
+
+
+
+
+
+
+            
+    	{
+		"message": "please help me",
+		"urgency": "SLIGHTLY_URGENT"
+	
+	},
+
+{
+		"message": "please help me!",
+		"urgency": "URGENT"
+	
+	},
+
+    	{
+		"message": "please help me!!",
+		"urgency": "URGENT"
+	
+	},
+
+    	{
+		"message": "please help me!!!",
+		"urgency": "VERY_URGENT"
+	
+	},
+
+    	{
+		"message": "I need help",
+		"urgency": "URGENT"
+	
+	},
+
+    	{
+		"message": "I need help!",
+		"urgency": "URGENT"
+	
+	},
+
+    	{
+		"message": "I need help!!",
+		"urgency": "URGENT"
+	
+	},
+
+    	{
+		"message": "I need help!!!",
+		"urgency": "URGENT"
+	
+	},
+
+    	{
+		"message": "I need your help",
+		"urgency": "SLIGHTLY_URGENT"
+	
+	},
+
+    	{
+		"message": "I need your help!",
+		"urgency": "URGENT"
+	
+	},
+
+{
+		"message": "I need your help!!",
+		"urgency": "URGENT"
+	
+	},
+
+{
+		"message": "I need your help!!!",
+		"urgency": "VERY_URGENT"
+	
+	},
+
+    	{
+		"message": "please help me",
+		"urgency": "URGENT"
+	
+	},
+
+    	
+
+	{
+		"message": "i need to go to the hospital",
+		"urgency": "VERY_URGENT"
+	},
+    
+	{
+		"message": "i need to go to the hospital right now!",
+		"urgency": "VERY_URGENT"
+	},
+
+	{
+		"message": "i am hurt, I need to go to the hospital",
+		"urgency": "VERY_URGENT"
+	},
+
+	{
+		"message": "drive me to the hospital",
+		"urgency": "VERY_URGENT"
+	},
+
+	{
+		"message": "i need your help going to hospital",
+		"urgency": "VERY_URGENT"
+	},
+
+	{
+		"message": "i need to go to the police station",
+		"urgency": "URGENT"
+	},
+
+	{
+		"message": "i am at the police station",
+		"urgency": "URGENT"
+	},
+
+	{
+		"message": "i am in trouble with the police",
+		"urgency": "URGENT"
+	},
+
+	{
+		"message": "i got a ticket by the police",
+		"urgency": "URGENT"
+	},
+
+	{
+		"message": "the police are here",
+		"urgency": "URGENT"
+	},
+
+	{
+		"message": "there is a lot of police here",
+		"urgency": "URGENT"
+	},
+
+	{
+		"message": "our friend got a ticket",
+		"urgency": "URGENT"
+	},
+
+	{
+		"message": "the police just gave me a ticket",
+		"urgency": "URGENT"
+	},
+
+	{
+		"message": "i am in trouble",
+		"urgency": "URGENT"
+	}, 
+
+  	{
+		"message": "I am scared!! ",
+		"urgency": "URGENT"
+	}, 
+
+	{
+		"message": "hey did you ever get the haircut?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "hey want to work on this project?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "what do you think of the new iphone?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "do you think you could help me, i really need it",
+		"urgency": "URGENT"
+	},
+
+	{
+		"message": "i am in a lot of pain, i need help please",
+		"urgency": "VERY_URGENT"
+	},
+
+	{
+		"message": "do you think we should go to the movies tonight?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "do you know what the weather is like tomorrow?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "how did the test go?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "have you done the laundry yet?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+	
+	{
+		"message": "have you done your wash yet?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+
+	{
+		"message": "hey did you work out last night?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+	
+	{
+		"message": "did you go to gym last night?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+
+	{
+		"message": "where are they going to?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "where did you find the key?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	{
+		"message": "hey man, I have not seen you in a while. How is it going?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "hey man, I have not seen you in a while. How is it going!",
+		"urgency": "URGENT"
+	},
+
+	{
+		"message": "hey man, I have not seen you in a while. How is it going!!",
+		"urgency": "URGENT"
+	},
+
+	{
+		"message": "hey man, I have not seen you in a while. How is it going!!!",
+		"urgency": "URGENT"
+	},
+
+	{
+		"message": "help me",
+		"urgency": "URGENT"
+	},
+
+	{
+		"message": "help me!",
+		"urgency": "VERY_URGENT"
+	},
+
+	{
+		"message": "what is she sick with?",
+		"urgency": "URGENT"
+	},
+
+	{
+		"message": "do you need anything from the store?",
+		"urgency": "URGENT"
+	},
+
+	{
+		"message": "do you need any medicine?",
+		"urgency": "URGENT"
+	},
+
+	{
+		"message": "what do you need from the store?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "how much were those jeans?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "what do you want to be when you grow up?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "make sure you stay safe over the weekend",
+		"urgency": "URGENT"
+	},
+
+	{
+		"message": "that is a dangerous hiking trail",
+		"urgency": "URGENT"
+	},
+
+	{
+		"message": "do not put yourself in danger",
+		"urgency": "VERY_URGENT"
+	},
+
+	{
+		"message": "stay out of danger!",
+		"urgency": "VERY_URGENT"
+	},
+
+	{
+		"message": "urgent!! please don’t go outside for your safety",
+		"urgency": "VERY_URGENT"
+	},
+
+	{
+		"message": "for your safety, don’t go outside!!",
+		"urgency": "VERY_URGENT"
+	},
+	
+	{
+		"message": "for your mental health, make sure to find a mental therapist!!",
+		"urgency": "VERY_URGENT"
+	},
+		
+
+	{
+		"message": "there is a storm outside. be safe!",
+		"urgency": "VERY_URGENT"
+	},
+
+	{
+		"message": "stay safe!!!",
+		"urgency": "VERY_URGENT"
+	},
+
+	{
+		"message": "how did you do on your test?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "how hard is the homework?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "hey, could you explain me how to solve that problem?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "hey did you ever get the haircut?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "hey did you ever get the haircut?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "hey did you ever get the haircut?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "hey did you ever get the haircut?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "hey did you ever get the haircut?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "hey did you ever get the haircut?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "hey did you ever get the haircut?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "hey did you ever get the haircut?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "hey did you ever get the haircut?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "hey did you ever get the haircut?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "hey did you ever get the haircut?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "hey did you ever get the haircut?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "hey did you ever get the haircut?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "hey did you ever get the haircut?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "hey did you ever get the haircut?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "hey did you ever get the haircut?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "hey did you ever get the haircut?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "hey did you ever get the haircut?",
+		"urgency": "SLIGHTLY_URGENT"
+	},
+
+	{
+		"message": "hey did you ever get the haircut?",
+		"urgency": "SLIGHTLY_URGENT"
+	}
+
+]
+
