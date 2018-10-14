@@ -47,24 +47,31 @@ class Bayes():
 
     def train(self):
         for message in self.messages:
+            urgency = message['urgency']
+            index = URGENCIES[urgency]
+
             if "?" in message:
-                self.word_bank['?'] = [1.0, 1.0, 1.0, 1.0, 1.0]
+                self.word_bank['?'][0] += 1
+                self.word_bank['?'][index + 1] += 1
 
             if "!!!" in message:
-                self.word_bank['!!!'] = [1.0, 1.0, 1.0, 1.0, 1.0]
+                self.word_bank['!!!'][0] += 1
+                self.word_bank['!!!'][index + 1] += 1
+
             elif "!!" in message:
-                self.word_bank['!!'] = [1.0, 1.0, 1.0, 1.0, 1.0]
+                self.word_bank['!!!'][0] += 1
+                self.word_bank['!!!'][index + 1] += 1
+
             elif "!" in message:
-                self.word_bank['!'] = [1.0, 1.0, 1.0, 1.0, 1.0]
+                self.word_bank['!!!'][0] += 1
+                self.word_bank['!!!'][index + 1] += 1
 
             split = message["message"].split()
 
             for word in split:
                 word = word.lower()
-                self.word_bank[word][0] += 1 
+                self.word_bank[word][0] += 1
 
-                urgency = message["urgency"]
-                index = URGENCIES[urgency]
                 self.word_bank[word][index + 1] += 1
 
                 self.class_totals[index] += 1
